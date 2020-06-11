@@ -6,7 +6,6 @@ all Dependencies
 configuration
 package.json
 tags(Suites)
-chai(assertions)
 beforeEach/afterEach
 screenshot
 Html reports
