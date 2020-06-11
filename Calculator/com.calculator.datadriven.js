@@ -1,0 +1,44 @@
+module.exports=
+	{
+		DataDriven:
+			{
+			ADDITION:
+				{
+				firstInput:"10",
+				secondInput:"3",
+				Operation:"ADDITION",
+				expected:"13"
+				
+				},
+			DIVISION:
+				{
+				firstInput:"10",
+				secondInput:"2",
+				Operation:"DIVISION",
+				expected:"5"
+				},
+			MODULO:
+				{
+				firstInput:"5",
+				secondInput:"3",
+				Operation:"MODULO",
+				expected:"2"
+					
+				},
+			MULTIPLICATION:
+				{
+				firstInput:"10",
+				secondInput:"2",
+				Operation:"MULTIPLICATION",
+				expected:"20"
+				},
+			SUBTRACTION:
+				{
+				firstInput:"5",
+				secondInput:"3",
+				Operation:"SUBTRACTION",
+				expected:"2"
+				}
+				
+			}
+	}
